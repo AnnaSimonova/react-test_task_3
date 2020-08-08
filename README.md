@@ -1,3 +1,10 @@
+**PROJECT DESCRIPTION** <br />
+This project created on React is a training web application showing basic features of fetching data from JSONplaceholder REST API and posting new data to it.
+
+You can view project demo <a href="https://binarnia.com/react-test_task_3/">here</a>.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
